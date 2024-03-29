@@ -1,0 +1,28 @@
+.heading{
+width: 100%;
+text-align: left; 
+
+} 
+.heading button {
+
+float: right;
+}
+
+.big_image{
+
+    width: 100%;
+}
+
+a:hover{
+background-color: crimson;
+color: rgb(252, 250, 250);
+}
+
+video{
+
+    background: url("descarga\ chikita.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 80px;
+    
+}
